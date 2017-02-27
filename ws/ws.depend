@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1488210234 source:c:\users\grégori\desktop\codeblocks\ws\actions.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"actions.h"
+
+1488203497 c:\users\grégori\desktop\codeblocks\ws\actions.h
+
+1488210296 source:c:\users\grégori\desktop\codeblocks\ws\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"actions.h"
+
